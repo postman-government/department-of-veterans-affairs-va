@@ -6,7 +6,7 @@ tags:
 - APIs
 created: '2020-08-07'
 modified: '2020-10-01'
-url: apis.json
+url: https://postman-government.github.io/department-of-veterans-affairs-va/apis.json
 specificationVersion: '0.14'
 apis:
 - name: Department of Veteran Affairs (VA)
